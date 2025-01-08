@@ -63,7 +63,7 @@ Contribuições são bem-vindas! Se você tiver ideias ou encontrar problemas, a
 
 🎮 Sobre o Autor
 
-Feito com ❤️ por um entusiasta de Python e RPGs!
+Feito com dedicação por um entusiasta de Python e RPGs!
 Se tiver dúvidas ou sugestões, entre em contato:
 
 GitHub: xXSm0kyNag4taXx
