@@ -30,13 +30,21 @@ python3 rollmigas.py
 4. Digite o lançamento desejado no formato:
 
 XdY+Z:
+
 X: Quantidade de dados.
+
 Y: Número de faces do dado.
+
 Z: Modificador opcional (+ ou -).
+
 Exemplos válidos:
+
 1d20+3
+
 2d6
+
 3d8-1
+
 Para encerrar, digite "n" quando perguntado se deseja lançar novamente.
 
 🛠️ Tecnologias Utilizadas
