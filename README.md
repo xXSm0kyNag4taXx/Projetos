@@ -75,4 +75,5 @@ Feito com dedicação por um entusiasta de Python e RPGs!
 Se tiver dúvidas ou sugestões, entre em contato:
 
 GitHub: JoaoMiguel33
+
 Email: Joaomiguelmonteiro33@gmail.com
