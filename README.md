@@ -17,7 +17,7 @@
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/xXSm0kyNag4taXx/rollmigas.git# Projetos
+   git clone https://github.com/JoaoMiguel33/rollmigas.git# Projetos
    
 2. Navegue até a pasta do projeto
    
@@ -74,5 +74,5 @@ Contribuições são bem-vindas! Se você tiver ideias ou encontrar problemas, a
 Feito com dedicação por um entusiasta de Python e RPGs!
 Se tiver dúvidas ou sugestões, entre em contato:
 
-GitHub: xXSm0kyNag4taXx
+GitHub: JoaoMiguel33
 Email: Joaomiguelmonteiro33@gmail.com
